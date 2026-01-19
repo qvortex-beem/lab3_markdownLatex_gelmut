@@ -1,0 +1,5 @@
+[Github](https://github.com/qvortex-beem/lab3_markdownLatex_gelmut)
+[Markdown](https://www.markdownguide.org/ "перейти на официальный сайт")
+[ссылка на гугл](https://www.google.com)
+![Скриншот задания](../img/commitStructureLab3_gelmut.png)
+![еще один скрин задания](../img/formatingCommitLab3_gelmut.png)
